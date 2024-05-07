@@ -1,1 +1,1 @@
-In the LDA projection, the classes are more clearly separated compared to PCA, indicating that LDA captures the discriminative information better for classification. On the other hand, PCA focuses on capturing the overall variance in the data and is not as class-specific as LDA.
+
